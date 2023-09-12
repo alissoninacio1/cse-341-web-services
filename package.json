@@ -1,0 +1,20 @@
+{
+  "name": "cse-341-web-services",
+  "version": "1.0.0",
+  "description": "CSE 341 | Web Services | Projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alissoninacio1/cse-341-web-services.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alissoninacio1/cse-341-web-services/issues"
+  },
+  "homepage": "https://github.com/alissoninacio1/cse-341-web-services#readme"
+}
