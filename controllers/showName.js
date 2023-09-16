@@ -1,5 +1,5 @@
 const nameOnServer = (req, res) => {
-    res.send('Ronaldinho Gaucho');
+    res.send('Ronaldinho Gaucho - Brazilian');
 }
 
 module.exports = nameOnServer;
