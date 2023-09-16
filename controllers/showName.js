@@ -1,5 +1,6 @@
-const someoneName  = (req, res) => {
+const nameOnServer = (req, res) => {
     res.send('Ronaldinho Gaucho');
 }
 
-module.exports = someoneName;
+module.exports = nameOnServer;
+
