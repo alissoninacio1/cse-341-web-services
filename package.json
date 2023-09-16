@@ -4,7 +4,8 @@
   "description": "CSE 341 | Web Services | Projects",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
   },
   "repository": {
     "type": "git",
@@ -16,5 +17,11 @@
   "bugs": {
     "url": "https://github.com/alissoninacio1/cse-341-web-services/issues"
   },
-  "homepage": "https://github.com/alissoninacio1/cse-341-web-services#readme"
+  "homepage": "https://github.com/alissoninacio1/cse-341-web-services#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
 }
